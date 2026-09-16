@@ -1,0 +1,13 @@
+{
+  "business_name": "Serralheria Status",
+  "phone": "(13) 3491-3574",
+  "whatsapp": "(13) 3491-3574",
+  "address": "Rua dos Ipês, 100 - Centro, Praia Grande/SP",
+  "working_hours": "Seg-Sex: 8h às 18h",
+  "auto_reply": "Olá! Bem-vindo à Serralheria Status. Como posso ajudar?",
+  "services": [
+    {"name": "Portões de Alumínio", "price": "A partir de R$ 800", "description": "Portões sob medida"},
+    {"name": "Janelas", "price": "A partir de R$ 500", "description": "Vidros temperados"},
+    {"name": "Manutenção", "price": "A partir de R$ 150", "description": "Conserto e ajustes"}
+  ]
+}
